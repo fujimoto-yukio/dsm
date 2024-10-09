@@ -1,5 +1,5 @@
 # DSM Workbench
-DSM WorkbenchはDSM (Design Structure Matrix) の編集と分析を行うためのツールで、二値型（Binary）と数値型（Numeric）の2種類のDSMを扱います。
+DSM Workbenchは、DSM (Design Structure Matrix) の編集と分析を行うためのツールで、二値型（Binary）と数値型（Numeric）の2種類のDSMを扱います。
 ## 主要機能
 ### DSM Workbench
   - アプリケーションを起動すると、最初に表示される画面です。
