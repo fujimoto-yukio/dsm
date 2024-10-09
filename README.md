@@ -6,6 +6,7 @@ DSM Workbenchは、DSM (Design Structure Matrix) の編集と分析を行うた�
   - DSMの種類を指定して、新規のDSMを編集するための`DSM Editor`を起動することができます。
   - ファイルを指定して`DSM Editor`を起動することができます。
   - ファイルを指定して`Graph Visualizer`を起動することができます。
+    ![image width="200"](https://github.com/user-attachments/assets/0d357135-658f-420a-86db-fe9daf5d0c81)
 ### DSM Editor
   - DSMの編集と分析を行うための画面です。
   - `二値型（Binary）`と`数値型（Numeric）`の2つのDSM形式を取り扱います。
