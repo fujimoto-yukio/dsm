@@ -31,6 +31,7 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
 
 2024年10月　藤本　幸生（fjmt.yko@gmail.com）
 
+-----------------------------------------------------------------------------------------
 ## 機能説明
 DSM Workbenchは以下の5つの画面機能で構成されており、二値型（Binary）と数値型（Numeric）の2種類のDSMを扱うことができます。
 ### 1. DSM Workbench
@@ -47,7 +48,8 @@ DSM Workbenchは以下の5つの画面機能で構成されており、二値型
   - `セル編集モード`では、DSM要素の定義、属性編集とDSM要素間のフィード値を編集することができます。
   - `マトリックス編集・解析モード`では、DSM行列に対する移動、並び替え、部分抽出等の操作と、DSMの順序付けやコミュニティ分析等の解析を行います。
     
-    <img width="550" alt="スクリーンショット 2024-10-09 20 24 27" src="https://github.com/user-attachments/assets/ce3c534f-70be-48a4-ba24-576a4ed5b702">    
+    <img width="550" alt="スクリーンショット 2024-10-09 20 24 27" src="https://github.com/user-attachments/assets/ce3c534f-70be-48a4-ba24-576a4ed5b702">
+    <img width="550" alt="スクリーンショット 2024-10-10 10 13 35" src="https://github.com/user-attachments/assets/38b8e519-0b73-4a6c-bec0-8872476b8f96">  
 ### 3. Graph Visualizer
   - `DSM Editor`で作成したDSMをネットワーク・グラフに描画します。
   - `JUNC Visualizer`と`SmartGraph Visualizer`の2種類のグラフ描画形式を選択することができます。
