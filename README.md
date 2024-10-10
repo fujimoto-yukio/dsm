@@ -1,6 +1,6 @@
 # DSM Workbench
 ## はじめに
-DSM Workbenchという名前のDSM(Design Structure Matrix)の編集・分析ツールを公開することにしました。<br>
+DSM Workbenchという名前を付けて、DSM(Design Structure Matrix)の編集・分析ツールを公開することにしました。<br>
 まず最初に、このツールの生い立ち、開発、公開に至った経緯を書きます。
 
 ### 1. 生い立ち
@@ -32,7 +32,7 @@ Java1.5以来のプログラム製造で、随分と進化したJavaと初めて
 2024年10月　藤本　幸生（fjmt.yko@gmail.com）
 
 ## 機能説明
-DSM Workbenchは、二値型（Binary）と数値型（Numeric）の2種類のDSMを扱うことができます。主要な機能について、以下に記載します。
+アプリケーションは、以下の5つの画面機能で構成されており、DSM Workbenchは、二値型（Binary）と数値型（Numeric）の2種類のDSMを扱うことができます。
 ### 1. DSM Workbench
   - アプリケーションを起動すると、最初に表示される画面です。
   - DSMの種類を指定して、新規のDSMを編集するための`DSM Editor`を起動することができます。
