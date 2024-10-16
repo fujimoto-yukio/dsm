@@ -19,7 +19,7 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
 帰任から1年後の2023年9月末、63歳半で退職するとき、ゴールデンウィークよりもはるかに長い退職後の時間を何に使うか考えて、やりっぱなしになっているDSMアプリを作り直すことに決めました。
 新しいJavaの文法とJavaFXによるGUIアプリ開発の基礎も（割とまじめに）学んで、DSM Workbenchの開発を始め、1年後の2024年10月にバージョン1.0が完成しました。
 
-業務ニーズのない趣味の開発から出発しているため、機能の設計思想には個人的な興味が優先されています。
+業務ニーズではない趣味の開発から出発しているため、機能の設計思想には個人的な興味が優先されています。
 特に、グラフ描画やグラフデータベースの活用に関しては、グラフ理論はさておき、作って、動かすことの楽しいものが作り込まれており、実業務に役立つかどうかは不明です。
 本来であれば、まじめなDSM技術論もきちんと抑えておくべきですが、それも怪しいです。
 
@@ -35,9 +35,9 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
 ## リリース
 ### 1. 実行環境
   - Java17の実行環境が必要です。OracleJDKで開発しましたが、OpenJDKでも動作するはずです。
-  - macOSでは、IntelとApple SiliconでJavaFXのライブラリが異なるため、Intel Macでは動作しません。
+  - macOSでは、IntelとApple SiliconでJavaFXのライブラリが異なるため、macOS版のリリースモジュールはIntel Macでは動作しません。
 ### 2. リリース物件
-  - Windowsプレビューリリース: 
+  - Windowsプレビューリリース: [dsmworkbench-win-1.0-20241016.zip](https://github.com/fujimoto-yukio/dsm/blob/main/release/dsmworkbench-win-1.0-20241016.zip)
   - macOS プレビューリリース: [dsmworkbench-mac-1.0-20241016.zip](https://github.com/fujimoto-yukio/dsm/blob/main/release/dsmworkbench-mac-1.0-20241016.zip)
   - DSM Workbench操作説明書: [DSMWorkbench_Help.pdf](https://github.com/fujimoto-yukio/dsm/blob/main/release/DSMWorkbench_Help.pdf)
   - Getting Started with DSM Workbench: [DSMWorkbench_GettingStarted.pdf](https://github.com/fujimoto-yukio/dsm/blob/main/release/DSMWorkbench_GettingStarted.pdf)
