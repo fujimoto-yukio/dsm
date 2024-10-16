@@ -73,7 +73,7 @@ DSM Workbenchは以下の5つの画面機能で構成されており、二値型
     <img width="550" alt="スクリーンショット 2024-10-10 10 13 35" src="https://github.com/user-attachments/assets/38b8e519-0b73-4a6c-bec0-8872476b8f96">  
 ### 3. Graph Visualizer
   - `DSM Editor`で作成したDSMをネットワーク・グラフに描画します。
-  - `JUNC Visualizer`と`SmartGraph Visualizer`の2種類のグラフ描画形式を選択することができます。
+  - `JUNG Visualizer`と`SmartGraph Visualizer`の2種類のグラフ描画形式を選択することができます。
     
     <img width="460" alt="スクリーンショット 2024-10-09 20 27 21" src="https://github.com/user-attachments/assets/c5a50f20-0f67-4db4-a477-36470e7e1035">
 ### 4. Preference Dialog
