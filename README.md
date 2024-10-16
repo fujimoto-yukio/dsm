@@ -35,9 +35,10 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
 ## リリース
 ### 1. 実行環境
   - Java17の実行環境が必要です。OracleJDKで開発しましたが、OpenJDKでも動作するはずです。
+  - macOSでは、IntelとApple SiliconでJavaFXのライブラリが異なるため、Intel Macでは動作しません。
 ### 2. リリース物件
   - Windowsプレビューリリース: 
-  - macOS プレビューリリース: [dsmworkbench-1.0-20241016.zip](https://github.com/fujimoto-yukio/dsm/blob/main/release/dsmworkbench-1_0-20241016.zip)
+  - macOS プレビューリリース: [dsmworkbench-mac-1.0-20241016.zip](https://github.com/fujimoto-yukio/dsm/blob/main/release/dsmworkbench-mac-1.0-20241016.zip)
   - DSM Workbench操作説明書:
   - Getting Started with DSM Workbench: 
 ### 3. リリース物件
