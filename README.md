@@ -40,11 +40,12 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
   - macOS プレビューリリース: [dsmworkbench-1.0-20241016.zip](https://github.com/fujimoto-yukio/dsm/blob/main/release/dsmworkbench-1_0-20241016.zip)
   - DSM Workbench操作説明書:
   - Getting Started with DSM Workbench: 
-### 4. リリース物件
+### 3. リリース物件
   - Windows版、mac版共に、DSM Workbenchの実行形式Jarファイルと必要ライブラリをzip圧縮しています。
   - 物件をダウンロード後、任意のフォルダで解凍してください。
   - Windows: dsmworkbenchフォルダ内の`dsm.bat`を起動してください。
   - macOS: dsmworkbenchフォルダ内の`dsm.sh`を起動してください。
+  - 配布方法、起動方法ともに、手数のかからない手抜きコースになっています。
     
 # 機能概要
 DSM Workbenchは以下の5つの画面機能で構成されており、二値型（Binary）と数値型（Numeric）の2種類のDSMを扱うことができます。
