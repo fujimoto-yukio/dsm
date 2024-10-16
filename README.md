@@ -63,6 +63,5 @@ DSM Workbenchは以下の5つの画面機能で構成されており、二値型
     <img width="550" alt="スクリーンショット 2024-10-09 20 27 36" src="https://github.com/user-attachments/assets/0140a362-64e3-4654-907c-ec7cfe9ddcb1">
 ### 5. Information DIalog
   - `DSM Workbench`で取り扱う各種情報を詳細表示します。
-  - 画面の表示内容をファイルに保存することもできます。
     
     <img width="550" alt="スクリーンショット 2024-10-09 20 28 06" src="https://github.com/user-attachments/assets/e16766f4-b3f1-4ac6-a902-dac0af781897">
