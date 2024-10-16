@@ -28,7 +28,7 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
 また、ひとりで設計、開発、テストを行っており、どうしてもテストが甘く、バグ、不具合もまだまだ残っているはずです。
 
 あくまで「As Is」ですが、これらをご理解の上で使っていただければ幸いです。<br>
-バグ、不具合に限らず、改善要望もお知らせください。可能な限り対応したいと思います。
+バグ、不具合に限らず、改善要望もお知らせいただければ、可能な限り対応したいと考えています。
 
 2024年10月　藤本　幸生（fjmt.yko@gmail.com）
 
@@ -38,6 +38,8 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
 ### 2. リリース物件
   - Windowsプレビューリリース: 
   - macOS プレビューリリース: [dsmworkbench-1.0-20241016.zip](https://github.com/fujimoto-yukio/dsm/blob/main/release/dsmworkbench-1_0-20241016.zip)
+  - DSM Workbench操作説明書:
+  - Getting Started with DSM Workbench: 
 ### 4. リリース物件
   - Windows版、mac版共に、DSM Workbenchの実行形式Jarファイルと必要ライブラリをzip圧縮しています。
   - 物件をダウンロード後、任意のフォルダで解凍してください。
