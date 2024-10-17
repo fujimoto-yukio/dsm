@@ -47,8 +47,8 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
 ### 3. リリース物件
   - Windows版、mac版共に、DSM Workbenchの実行形式Jarファイルと必要ライブラリをzip圧縮しています。
   - 物件をダウンロード後、任意のフォルダに展開してください。
-  - Windows: dsmworkbenchフォルダ内の`dsm.bat`を起動してください。
-  - macOS: dsmworkbenchフォルダ内の`dsm.sh`を起動してください。
+  - Windows: dsmworkbenchフォルダ内の`dsmworkbench.bat`を起動してください。
+  - macOS: dsmworkbenchフォルダ内の`dsmworkbench.sh`を起動してください。
   - プレビューリリースのモジュールは、標準出力に大量のデバッグログが出力されます。無視してください。
   - 配布方法、起動方法ともに、手数のかからない手抜きコースになっています。
     
