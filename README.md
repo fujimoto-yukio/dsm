@@ -53,4 +53,4 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
   - 配布方法、起動方法ともに、手数のかからない手抜きコースになっています。
 
 ### 4. 機能概要
-  - [Wiki](https://github.com/fujimoto-yukio/dsm/wiki)を参照してください
+  - [Wiki](https://github.com/fujimoto-yukio/dsm/wiki) を参照してください
