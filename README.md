@@ -44,7 +44,7 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
   - DSM Workbench操作説明書: [DSMWorkbench_Help.pdf](https://github.com/fujimoto-yukio/dsm/blob/main/release/DSMWorkbench_Help.pdf)
   - Getting Started with DSM Workbench: [DSMWorkbench_GettingStarted.pdf](https://github.com/fujimoto-yukio/dsm/blob/main/release/DSMWorkbench_GettingStarted.pdf)
 
-### 3. リリース物件
+### 3. 実行方法
   - Windows版、mac版共に、DSM Workbenchの実行形式Jarファイルと必要ライブラリをzip圧縮しています。
   - 物件をダウンロード後、任意のフォルダに展開してください。
   - Windows: dsmworkbenchフォルダ内の`dsmworkbench.bat`を起動してください。
