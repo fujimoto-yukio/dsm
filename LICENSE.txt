@@ -1,0 +1,60 @@
+================================================================================
+ DSM Workbench Version 1.0
+================================================================================
+ (C) 2024 藤本幸生 (FUJIMOTO, Yukio)
+
+このソフトウェア（ソースプログラム、文書、画像を含む）の著作権は作者である藤本幸生に帰属します。
+このソフトウェアが含む他のOSSの著作権はそれぞれの作者に帰属します。
+ソフトウェアは「現状のまま」で、明示であるか暗黙であるかを問わず、何らの保証もなく提供されます。
+ここでいう保証とは、商品性、特定の目的への適合性、および権利非侵害についての保証も含みますが、そ
+れに限定されるものではありません。 
+作者または著作権者は、契約行為、不法行為、またはそれ以外であろうと、ソフトウェアに起因または関連
+し、あるいはソフトウェアの使用またはその他の扱いによって生じる一切の請求、損害、その他の義務につ
+いて何らの責任も負わないものとします。
+このソフトウェアの利用は無料であり、利用の形態も制限しません。譲渡、配布も自由ですが、著作権表示
+を削除してはなりません。
+この合意は、日本語で記述された本文書に従い、日本の法律によって解釈されるものとします。
+
+--------------------------------------------------------------------------------
+このソフトウェアが含むOSSとそれぞれのライセンスは以下に示す通りです。
+
+Third Party Licenses
+
+JavaFX 21.0.3(April 2024)
+ https://gluonhq.com/products/javafx/
+ License: GNU General Public License, version 2, with the Classpath Exception https://openjdk.org/legal/gplv2+ce.html
+
+JavaFX Scene Builder 21.0.0
+ https://gluonhq.com/products/scene-builder/
+ License: The 3-Clause BSD license.
+
+Apache Log4j 2.20.0
+ https://logging.apache.org/log4j/2.x/
+ License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
+
+Apache Commons CSV 1.10.0
+ https://commons.apache.org/proper/commons-csv/
+ License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
+
+Jackson 2.15.3
+ https://github.com/FasterXML/jackson
+ License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
+
+Neo4j Java Driver 5.16.0
+ https://github.com/neo4j/neo4j-java-driver
+ License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
+
+JGraphT 1.5.2
+ https://jgrapht.org
+ License: GNU Lesser General Public License (LGPL) 2.1 https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+          or Eclipse Public License (EPL) https://www.eclipse.org/legal/epl-2.0/
+
+JUNG 3.1
+ https://jrtom.github.io/jung/
+ License: BSD open-source license https://github.com/devlibx/jung/blob/master/LICENSE
+
+(JavaFX) SmartGraph 2.0.0
+ https://github.com/brunomnsilva/JavaFXSmartGraph
+ license: MIT License https://github.com/brunomnsilva/JavaFXSmartGraph/blob/master/LICENSE.txt
+
+--------------------------------------------------------------------------------
