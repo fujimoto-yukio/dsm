@@ -36,7 +36,7 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
 ----------
 ## リリース
 ### 1. 実行環境
-  - Windows, macOSそれぞれのリリース物件`dsmworkbench-xxx-1.0-yyyymmdd.zip`を展開してください。
+  - Windows、macOSそれぞれのリリースモジュール`dsmworkbench-xxx-1.0-yyyymmdd.zip`をダウンロード、展開してください。
   - Java17の実行環境が必要です。OracleJDKで開発しましたが、OpenJDKでも動作するはずです。
   - macOS版はApple Siliconで開発されています。JavaFXのライブラリが異なるため、Intel Macでは動作しません。
 
