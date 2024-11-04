@@ -36,22 +36,24 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
 ----------
 ## リリース
 ### 1. 実行環境
+  - Windows, macOSそれぞれのリリース物件`dsmworkbench-xxx-1.0-yyyymmdd.zip`を展開してください。
   - Java17の実行環境が必要です。OracleJDKで開発しましたが、OpenJDKでも動作するはずです。
   - macOS版はApple Siliconで開発されています。JavaFXのライブラリが異なるため、Intel Macでは動作しません。
 
 ### 2. リリース
-#### [v1.0 preview release](https://github.com/fujimoto-yukio/dsm/releases/tag/v1.0-preview)
 - Windows: [dsmworkbench-win-1.0-20241103.zip](release/dsmworkbench-win-1.0-20241103.zip)
 - macOS: [dsmworkbench-mac-1.0-20241103.zip](release/dsmworkbench-mac-1.0-20241103.zip)
 - Help: [DSMWorkbench_Help.pdf](release/DSMWorkbench_Help.pdf)
 - Getting Started: [DSMWorkbench_GettingStarted.pdf](release/DSMWorkbench_GettingStarted.pdf)
-  
+
+リリース情報は、[v1.0 preview release](https://github.com/fujimoto-yukio/dsm/releases/tag/v1.0-preview) にあります。
+
 ### 3. 実行方法
   - Windows版、macOS版共に、DSM Workbenchの実行形式Jarファイルと必要ライブラリをzip圧縮しています。
-  - 物件をダウンロード後、任意のフォルダに展開してください。
-  - Windows: dsmworkbenchフォルダ内の`dsmworkbench.bat`を起動してください。
-  - macOS: dsmworkbenchフォルダ内の`dsmworkbench.sh`を起動してください。
-  - プレビューリリースのモジュールは、標準出力に大量のデバッグログが出力されます。無視してください。
+  - Windows, macOSそれぞれのリリース物件をダウンロード後、任意のフォルダに展開してください。
+  - Windows: 展開してできた`dsmworkbench`フォルダ内の`dsmworkbench.bat`を起動してください。
+  - macOS: 展開してできた`dsmworkbench`フォルダ内の`dsmworkbench.sh`を起動してください。
+  - 実行ユーザのホームディレクトリ直下に`.dsmworkbench`という名前のディレクトリが作成され、ログファイルが書き込まれます。
   - 配布方法、起動方法ともに、手数のかからない手抜きコースになっています。
 
 ----------
