@@ -41,12 +41,13 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
   - macOS版はApple Siliconで開発されています。JavaFXのライブラリが異なるため、Intel Macでは動作しません。
 
 ### 2. リリース
-リリース情報は、[v1.0 preview release](https://github.com/fujimoto-yukio/dsm/releases/tag/v1.0-preview) にあります。
 - Windows: [dsmworkbench-win-1.0-20241103.zip](release/dsmworkbench-win-1.0-20241103.zip)
 - macOS: [dsmworkbench-mac-1.0-20241103.zip](release/dsmworkbench-mac-1.0-20241103.zip)
 - Help: [DSMWorkbench_Help.pdf](release/DSMWorkbench_Help.pdf)
 - Getting Started: [DSMWorkbench_GettingStarted.pdf](release/DSMWorkbench_GettingStarted.pdf)
-  
+
+リリース情報は、[v1.0 preview release](https://github.com/fujimoto-yukio/dsm/releases/tag/v1.0-preview) にあります。
+
 ### 3. 実行方法
   - Windows版、macOS版共に、DSM Workbenchの実行形式Jarファイルと必要ライブラリをzip圧縮しています。
   - Windows, macOSそれぞれのリリース物件をダウンロード後、任意のフォルダに展開してください。
