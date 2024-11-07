@@ -41,7 +41,7 @@ JDK1.5以来のプログラム製造で、随分と進化したJavaと初めて�
   - macOS版はApple Siliconで開発されています。JavaFXのライブラリが異なるため、Intel Macでは動作しません。
 
 ### 2. リリースモジュール
-リリース情報は、[Release](https://github.com/fujimoto-yukio/dsm/releases) にあります。
+リリースの内容とモジュールは、[Release](https://github.com/fujimoto-yukio/dsm/releases) にあります。
 
 ### 3. 実行方法
   - Windows版、macOS版共に、DSM Workbenchの実行形式Jarファイルと必要ライブラリをzip圧縮しています。
