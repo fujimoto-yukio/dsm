@@ -13,6 +13,8 @@
 いて何らの責任も負わないものとします。
 このソフトウェアの利用は無料であり、利用の形態も制限しません。譲渡、配布も自由ですが、著作権表示
 を削除してはなりません。
+本ソフトウェアのリバースエンジニアリング、逆アセンブル、逆コンパイル、またはその他の方法で本ソフト
+ウェアのソースコードを導出することは許可されません。
 この合意は、日本語で記述された本文書に従い、日本の法律によって解釈されるものとします。
 
 --------------------------------------------------------------------------------
@@ -31,7 +33,7 @@ JavaFX Scene Builder 21.0.0
 Apache Log4j 2.20.0
  https://logging.apache.org/log4j/2.x/
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
- 
+
 Apache Commons CSV 1.10.0
  https://commons.apache.org/proper/commons-csv/
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
@@ -39,7 +41,7 @@ Apache Commons CSV 1.10.0
 SLF4J Simple Provider 2.0.16
  https://www.slf4j.org
  License: MIT License https://www.slf4j.org/license.html
- 
+
 Jackson 2.15.3
  https://github.com/FasterXML/jackson
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
@@ -60,5 +62,10 @@ JUNG 3.1
 (JavaFX) SmartGraph 2.0.0
  https://github.com/brunomnsilva/JavaFXSmartGraph
  license: MIT License https://github.com/brunomnsilva/JavaFXSmartGraph/blob/master/LICENSE.txt
+
+TestFX 4.0.18
+ https://github.com/TestFX
+ license: EUPL, Version 1.1 or - as soon they will be approved by the European Commission
+ https://github.com/TestFX/TestFX?tab=License-1-ov-file
 
 --------------------------------------------------------------------------------
