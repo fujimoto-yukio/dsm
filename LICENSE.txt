@@ -1,5 +1,5 @@
 ================================================================================
- DSM Workbench Version 1.2
+ DSM Workbench Version 2.0
 ================================================================================
  (C) 2024-2025 藤本幸生 (FUJIMOTO, Yukio)
 
@@ -58,10 +58,6 @@ JGraphT 1.5.2
 JUNG 3.1
  https://jrtom.github.io/jung/
  License: BSD open-source license https://github.com/devlibx/jung/blob/master/LICENSE
-
-(JavaFX) SmartGraph 2.0.0
- https://github.com/brunomnsilva/JavaFXSmartGraph
- license: MIT License https://github.com/brunomnsilva/JavaFXSmartGraph/blob/master/LICENSE.txt
 
 TestFX 4.0.18
  https://github.com/TestFX
