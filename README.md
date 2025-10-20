@@ -5,7 +5,7 @@
 - DSM(Design Structure Matrix)の定義
 - DMM(Domain Mapping Matrix)の定義
 - MDM(Multiple Domain Matrix)の定義
-- DSMの順序付け（シーケンシング）、コミュニティ分析（MDMはDSMに変換して分析します）
+- DSMの分析（順序付け（シーケンシング）、コミュニティ分析等）
 - DSM、DMM、MDMのグラフ描画
 
 <img width="2484" height="1315" alt="image" src="https://github.com/user-attachments/assets/2a85f22f-7980-40be-aaee-a8429b68c0d0" />
