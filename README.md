@@ -15,7 +15,6 @@
 
 詳細は、[Wiki](https://github.com/fujimoto-yukio/dsm/wiki)、リリース物件に含まれるヘルプドキュメントを参照してください。
 
-----------
 ## リリース
 ### 1. 実行環境
   - Windows、macOSそれぞれのリリースモジュール`dsmworkbench-1.0.0-win.zip` `dsmworkbench-1.0.0-mac.zip`ををダウンロード、展開してください。
