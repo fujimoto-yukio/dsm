@@ -1,13 +1,14 @@
 # DSM Workbench
 **DSM Workbench** は、DSM(Design Structure Matrix), DMM(Domain Mapping Matrix), MDM(Multiple Domain Matrix) の編集と分析を行うためのツールです。<br>
-[はじめに](https://github.com/fujimoto-yukio/dsm/wiki/はじめに) 書いた通り、個人的な趣味で作ったアプリケーションですが、「As Is」で使っていただければ幸いです。
+[はじめに](https://github.com/fujimoto-yukio/dsm/wiki/はじめに) に書いた通り、個人的な趣味で作ったアプリケーションですが、「As Is」で使っていただければ幸いです。
 
 ## 主要機能
-**DSM Workbench** は以下の機能を提供します。
+**DSM Workbench** は以下の機能を有しています。
 - DSM(Design Structure Matrix)の定義
 - DMM(Domain Mapping Matrix)の定義
-- MDM(Multiple Domain Matrix)の定義
-- DSMの分析（順序付け（シーケンシング）、コミュニティ分析等）
+- MDM(Multiple Domain Matrix)の定義、DSMへの変換
+- MDMによるQFDの定義、QFDのプロセスDSM変換
+- DSMの分析（連成要素検索、順序付け、コミュニティ分析等）
 - DSM、DMM、MDMのグラフ描画
 
 <img width="2484" height="1315" alt="image" src="https://github.com/user-attachments/assets/2a85f22f-7980-40be-aaee-a8429b68c0d0" />
