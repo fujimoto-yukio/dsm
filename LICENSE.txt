@@ -1,7 +1,7 @@
 ================================================================================
- DSM Workbench Version 2.0
+ DSM Workbench Version 2.3
 ================================================================================
- (C) 2024-2025 藤本幸生 (FUJIMOTO, Yukio)
+ (C) 2024-2026 藤本幸生 (FUJIMOTO, Yukio)
 
 このソフトウェア（ソースプログラム、文書、画像を含む）の著作権は作者である藤本幸生に帰属します。
 このソフトウェアが含む他のOSSの著作権はそれぞれの作者に帰属します。
@@ -22,7 +22,7 @@
 
 Third Party Licenses
 
-JavaFX 21.0.3(April 2024)
+JavaFX 21.0.8(July 2025)
  https://gluonhq.com/products/javafx/
  License: GNU General Public License, version 2, with the Classpath Exception https://openjdk.org/legal/gplv2+ce.html
 
@@ -30,7 +30,7 @@ JavaFX Scene Builder 21.0.0
  https://gluonhq.com/products/scene-builder/
  License: The 3-Clause BSD license.
 
-Apache Log4j 2.20.0
+Apache Log4j 2.25.3
  https://logging.apache.org/log4j/2.x/
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
@@ -46,7 +46,7 @@ Jackson 2.15.3
  https://github.com/FasterXML/jackson
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
-Neo4j Java Driver 5.16.0
+Neo4j Java Driver 5.28.8
  https://github.com/neo4j/neo4j-java-driver
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
@@ -55,9 +55,9 @@ JGraphT 1.5.2
  License: GNU Lesser General Public License (LGPL) 2.1 https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
           or Eclipse Public License (EPL) https://www.eclipse.org/legal/epl-2.0/
 
-JUNG 3.1
- https://jrtom.github.io/jung/
- License: BSD open-source license https://github.com/devlibx/jung/blob/master/LICENSE
+JGraphX 4.2.2
+ https://github.com/jgraph/jgraphx
+ License: BSD license https://github.com/jgraph/jgraphx?tab=License-1-ov-file
 
 TestFX 4.0.18
  https://github.com/TestFX
