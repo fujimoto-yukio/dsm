@@ -11,7 +11,7 @@
 - DSMの分析（連成要素検索、順序付け、コミュニティ分析等）
 - DSM、DMM、MDMのグラフ描画
 
-<img width="2484" height="1315" alt="image" src="https://github.com/user-attachments/assets/2a85f22f-7980-40be-aaee-a8429b68c0d0" />
+<img width="2129" height="1371" alt="image" src="https://github.com/user-attachments/assets/18984ae3-c987-4de3-aa70-5e3eda354cb0" />
 
 詳細は、[Wiki](https://github.com/fujimoto-yukio/dsm/wiki)、リリース物件に含まれるヘルプドキュメントを参照してください。
 
