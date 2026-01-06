@@ -17,7 +17,7 @@
 
 ## リリース
 ### 1. 実行環境
-  - Windows、macOSそれぞれのリリースモジュール`dsmworkbench-1.0.0-win.zip` `dsmworkbench-1.0.0-mac.zip`ををダウンロード、展開してください。
+  - Windows、macOSそれぞれのリリースモジュール`dsmworkbench-x.y.z-win.zip` `dsmworkbench-x.y.z-mac.zip`ををダウンロード、展開してください。
   - 実行のためにはJava17の実行環境が必要です。OracleJDKで開発しましたが、OpenJDKでも動作するはずです。
   - macOS版はApple Siliconで開発されています。JavaFXのライブラリが異なるため、Intel Macでは動作しません。
 
