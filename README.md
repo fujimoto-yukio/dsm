@@ -11,13 +11,13 @@
 - DSMの分析（連成要素検索、順序付け、コミュニティ分析等）
 - DSM、DMM、MDMのグラフ描画
 
-<img width="2484" height="1315" alt="image" src="https://github.com/user-attachments/assets/2a85f22f-7980-40be-aaee-a8429b68c0d0" />
+<img width="2129" height="1371" alt="image" src="https://github.com/user-attachments/assets/18984ae3-c987-4de3-aa70-5e3eda354cb0" />
 
 詳細は、[Wiki](https://github.com/fujimoto-yukio/dsm/wiki)、リリース物件に含まれるヘルプドキュメントを参照してください。
 
 ## リリース
 ### 1. 実行環境
-  - Windows、macOSそれぞれのリリースモジュール`dsmworkbench-1.0.0-win.zip` `dsmworkbench-1.0.0-mac.zip`ををダウンロード、展開してください。
+  - Windows、macOSそれぞれのリリースモジュール`dsmworkbench-x.y.z-win.zip` `dsmworkbench-x.y.z-mac.zip`ををダウンロード、展開してください。
   - 実行のためにはJava17の実行環境が必要です。OracleJDKで開発しましたが、OpenJDKでも動作するはずです。
   - macOS版はApple Siliconで開発されています。JavaFXのライブラリが異なるため、Intel Macでは動作しません。
 
