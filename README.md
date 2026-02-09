@@ -23,8 +23,6 @@
 
 <img width="1381" height="1095" alt="image" src="https://github.com/user-attachments/assets/998322e5-166e-4498-845f-fe1860c2494d" />
 
-<img width="2129" height="1371" alt="image" src="https://github.com/user-attachments/assets/18984ae3-c987-4de3-aa70-5e3eda354cb0" />
-
 詳細は、[Wiki](https://github.com/fujimoto-yukio/dsm/wiki)、リリース物件に含まれるヘルプドキュメントを参照してください。
 
 ## リリース
