@@ -8,7 +8,7 @@
 - DMM(Domain Mapping Matrix)の定義
 - MDM(Multiple Domain Matrix)の定義、DSMへの変換
 - MDMによるQFDの定義、QFDのプロセスDSM変換
-- DSMの分析（連成要素検索、順序付け、コミュニティ分析等）
+- DSMの分析（連成要素検索、順序付け、間接依存関係の検索、コミュニティ分析等）
 - DSM、DMM、MDMのグラフ描画
 
 <img width="2129" height="1371" alt="image" src="https://github.com/user-attachments/assets/18984ae3-c987-4de3-aa70-5e3eda354cb0" />
