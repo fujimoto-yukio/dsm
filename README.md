@@ -10,17 +10,35 @@
 - MDMによるQFDの定義、QFDのプロセスDSM変換
 - DSMの分析（連成要素検索、順序付け、間接依存関係の検索、コミュニティ分析等）
 - DSM、DMM、MDMのグラフ描画
-
-<div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px;">
-<img width="1174" height="1079" alt="image" src="https://github.com/user-attachments/assets/69c55255-57d5-41ff-90ff-4226d763c7bd" />
-<img width="1268" height="907" alt="image" src="https://github.com/user-attachments/assets/ebb114bd-616a-4b0f-afd1-f31b7dc84fae" />
-<img width="1212" height="812" alt="image" src="https://github.com/user-attachments/assets/ea624864-5fd0-441f-8f9f-ca5213f8ccc8" />
-<img width="1652" height="1016" alt="image" src="https://github.com/user-attachments/assets/214ea21a-9c78-4fea-8f9a-b83c29bfe541" />
-<img width="1611" height="969" alt="image" src="https://github.com/user-attachments/assets/9c49cde9-48c3-4637-9d8c-b734637eebc0" />
-<img width="1381" height="1095" alt="image" src="https://github.com/user-attachments/assets/998322e5-166e-4498-845f-fe1860c2494d" />
-</div>  
-
+ 
 詳細は、[Wiki](https://github.com/fujimoto-yukio/dsm/wiki)、リリース物件に含まれるヘルプドキュメントを参照してください。
+
+#### 画面イメージ
+<details>
+  <summary>DSM Workbench, DSM Editor</summary>
+  <img width="1174" height="1079" alt="image" src="https://github.com/user-attachments/assets/69c55255-57d5-41ff-90ff-4226d763c7bd" />
+</details>
+<details>
+  <summary>Graph Viewer - DSM直交グラフ</summary>
+  <img width="1268" height="907" alt="image" src="https://github.com/user-attachments/assets/ebb114bd-616a-4b0f-afd1-f31b7dc84fae" />
+</details>
+<details>
+  <summary>MDM Editor - QFD定義</summary>
+  <img width="1212" height="812" alt="image" src="https://github.com/user-attachments/assets/ea624864-5fd0-441f-8f9f-ca5213f8ccc8" />
+</details>
+<details>
+  <summary>Graph Viewer - ドメイン連携階層グラフ</summary>
+<img width="1611" height="969" alt="image" src="https://github.com/user-attachments/assets/9c49cde9-48c3-4637-9d8c-b734637eebc0" />
+</details>
+<details>
+  <summary>DSM Editor, DMM Editor</summary>
+  <img width="1652" height="1016" alt="image" src="https://github.com/user-attachments/assets/214ea21a-9c78-4fea-8f9a-b83c29bfe541" />
+</details>
+<details>
+  <summary>DSM Viewer -  V字開発プロセスDSM</summary>
+  <img width="1381" height="1095" alt="image" src="https://github.com/user-attachments/assets/998322e5-166e-4498-845f-fe1860c2494d" />
+</details>
+
 
 ## リリース
 ### 1. 実行環境
