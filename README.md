@@ -11,7 +11,7 @@
 - DSMの分析（連成要素検索、順序付け、間接依存関係の検索、コミュニティ分析等）
 - DSM、DMM、MDMのグラフ描画
  
-詳細は、[Wiki](https://github.com/fujimoto-yukio/dsm/wiki)、リリース物件に含まれるヘルプドキュメントを参照してください。
+詳細は、[Wiki](https://github.com/fujimoto-yukio/dsm/wiki)、リリース物件に含まれる [ヘルプドキュメント](https://github.com/fujimoto-yukio/dsm/blob/main/release/DSMWorkbench_Help.pdf) を参照してください。
 
 #### 画面イメージ
 <details>
