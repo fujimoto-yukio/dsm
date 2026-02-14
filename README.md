@@ -11,7 +11,7 @@
 - DSMの分析（連成要素検索、順序付け、間接依存関係の検索、コミュニティ分析等）
 - DSM、DMM、MDMのグラフ描画
  
-詳細は、[Wiki](https://github.com/fujimoto-yukio/dsm/wiki)、リリース物件に含まれる [ヘルプドキュメント](https://github.com/fujimoto-yukio/dsm/blob/main/release/DSMWorkbench_Help.pdf) を参照してください。
+詳細は、[Wiki](https://github.com/fujimoto-yukio/dsm/wiki) 、リリース物件に含まれる [ヘルプドキュメント](https://github.com/fujimoto-yukio/dsm/blob/main/release/DSMWorkbench_Help.pdf) を参照してください。
 
 #### 画面イメージ
 <details>
@@ -27,12 +27,12 @@
   <img width="1212" height="812" alt="image" src="https://github.com/user-attachments/assets/ea624864-5fd0-441f-8f9f-ca5213f8ccc8" />
 </details>
 <details>
-  <summary>Graph Viewer - ドメイン連携階層グラフ</summary>
-<img width="1611" height="969" alt="image" src="https://github.com/user-attachments/assets/9c49cde9-48c3-4637-9d8c-b734637eebc0" />
-</details>
-<details>
   <summary>DSM Editor, DMM Editor</summary>
   <img width="1652" height="1016" alt="image" src="https://github.com/user-attachments/assets/214ea21a-9c78-4fea-8f9a-b83c29bfe541" />
+</details>
+<details>
+  <summary>Graph Viewer - ドメイン連携階層グラフ</summary>
+<img width="1611" height="969" alt="image" src="https://github.com/user-attachments/assets/9c49cde9-48c3-4637-9d8c-b734637eebc0" />
 </details>
 <details>
   <summary>DSM Viewer -  V字開発プロセスDSM</summary>
