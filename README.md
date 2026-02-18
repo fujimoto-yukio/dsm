@@ -41,20 +41,20 @@
 
 
 ## リリース
-### 1. 実行環境
-  - Windows、macOSそれぞれのリリースモジュール`dsmworkbench-x.y.z-win.zip` `dsmworkbench-x.y.z-mac.zip`ををダウンロード、展開してください。
+### リリースモジュール
+  - リリースモジュールは、[Release](https://github.com/fujimoto-yukio/dsm/releases) にあリます。最新リリースを使ってください。
+  - Windows版、macOS版共に、DSM Workbenchの実行形式Jarファイルと必要ライブラリがzip圧縮されています。
+    
+### 実行環境
+  - Windows、macOSそれぞれのリリースモジュール`dsmworkbench-x.y.z-win.zip` `dsmworkbench-x.y.z-mac.zip`をダウンロードし、展開してください。
+  - 展開したWindows、macOSそれぞれのリリースモジュール（`dsmworkbench`フォルダ）を任意のディレクトリに配置してください。
   - 実行のためにはJava17の実行環境が必要です。OracleJDKで開発しましたが、OpenJDKでも動作するはずです。
   - macOS版はApple Siliconで開発されています。JavaFXのライブラリが異なるため、Intel Macでは動作しません。
 
-### 2. リリースモジュール
-リリースの内容とモジュールは、[Release](https://github.com/fujimoto-yukio/dsm/releases) にあります。
-
-### 3. 実行方法
-  - Windows版、macOS版共に、DSM Workbenchの実行形式Jarファイルと必要ライブラリをzip圧縮しています。
-  - Windows、macOSそれぞれのリリースモジュールをダウンロード後、任意のフォルダに展開してください。
+### 実行方法
   - Windows: 展開してできた`dsmworkbench`フォルダ内の`dsmworkbench.bat`を起動してください。
   - macOS: 展開してできた`dsmworkbench`フォルダ内の`dsmworkbench.sh`を起動してください。
-  - 実行ユーザのホームディレクトリ直下に`.dsmworkbench`という名前のディレクトリが作成され、ログファイルが書き込まれます。
+  - DSM Workbenchを起動すると、実行ユーザのホームディレクトリ直下に`.dsmworkbench`という名前のディレクトリが作成され、ログファイルが書き込まれます。
   - 配布方法、起動方法ともに、手数のかからない手抜きコースになっています（Windows用にはexe化を試みましたが、失敗して保留中です）。
 
 ----------
