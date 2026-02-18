@@ -1,5 +1,5 @@
 ================================================================================
- DSM Workbench Version 2.4
+ DSM Workbench Version 3.0
 ================================================================================
  (C) 2024-2026 藤本幸生 (FUJIMOTO, Yukio)
 
@@ -38,15 +38,11 @@ Apache Commons CSV 1.10.0
  https://commons.apache.org/proper/commons-csv/
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
-SLF4J Simple Provider 2.0.16
- https://www.slf4j.org
- License: MIT License https://www.slf4j.org/license.html
-
 Jackson 2.15.3
  https://github.com/FasterXML/jackson
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
-Neo4j Java Driver 5.28.8
+Neo4j Java Driver 5.28.10
  https://github.com/neo4j/neo4j-java-driver
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
