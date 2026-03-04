@@ -1,5 +1,5 @@
 ================================================================================
- DSM Workbench Version 3.0
+ DSM Workbench Version 3.1
 ================================================================================
  (C) 2024-2026 藤本幸生 (FUJIMOTO, Yukio)
 
@@ -38,7 +38,7 @@ Apache Commons CSV 1.10.0
  https://commons.apache.org/proper/commons-csv/
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
-Jackson 2.15.3
+Jackson 2.18.6
  https://github.com/FasterXML/jackson
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
