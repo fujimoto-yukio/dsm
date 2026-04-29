@@ -7,6 +7,7 @@
 - DSM(Design Structure Matrix)の定義
 - DMM(Domain Mapping Matrix)の定義
 - MDM(Multiple Domain Matrix)の定義、DSMへの変換
+- 二値型（Binary）、数値型（Numeric）、色型（Color）3種類の関連タイプ
 - MDMによるQFDの定義、QFDのプロセスDSM変換
 - DSMの分析（連成要素検索、順序付け、間接依存関係の検索、コミュニティ分析等）
 - DSM、DMM、MDMのグラフ描画
