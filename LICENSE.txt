@@ -30,7 +30,7 @@ JavaFX Scene Builder 21.0.0
  https://gluonhq.com/products/scene-builder/
  License: The 3-Clause BSD license.
 
-Apache Log4j 2.25.3
+Apache Log4j 2.25.4
  https://logging.apache.org/log4j/2.x/
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
