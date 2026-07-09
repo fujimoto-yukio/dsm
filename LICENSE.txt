@@ -38,7 +38,7 @@ Apache Commons CSV 1.10.0
  https://commons.apache.org/proper/commons-csv/
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
-Jackson 2.18.6
+Jackson 2.18.8
  https://github.com/FasterXML/jackson
  License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
